@@ -1,0 +1,9 @@
+target/
+# Banco local (cada pessoa cria o seu na primeira execução)
+hackflow.db
+hackflow.db-journal
+*.db-wal
+*.db-shm
+.idea/
+.vscode/
+*.iml
